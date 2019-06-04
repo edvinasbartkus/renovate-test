@@ -4,6 +4,6 @@
   ],
   "includePaths": [
     "package.json",
-    "examples/**"
+    "examples/**/*"
   ]
 }
