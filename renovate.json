@@ -2,8 +2,10 @@
   "extends": [
     "config:base"
   ],
-  "includePaths": [
-    "package.json",
-    "examples/**/*"
+  "pathRules": [
+    {
+      "paths": ["examples/**"],
+      "extends": ["config:base"]
+    }
   ]
 }
