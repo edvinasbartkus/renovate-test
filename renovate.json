@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [{
+    "paths": [
+      "examples/*"
+    ],
+    "extends": [
+      "config:base"
+    ],
+    "enabled": true
+  }]
+}
