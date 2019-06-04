@@ -4,7 +4,7 @@
   ],
   "packageRules": [{
     "paths": [
-      "examples/*"
+      "examples/**"
     ],
     "extends": [
       "config:base"
