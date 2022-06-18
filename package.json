@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/edvinasbartkus/renovate-test#readme",
   "dependencies": {
-    "react": "16.4.0"
+    "react": "18.2.0"
   }
 }
